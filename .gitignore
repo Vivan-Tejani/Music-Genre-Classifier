@@ -1,0 +1,12 @@
+data/
+checkpoints/
+*.pth
+*.tar.gz
+*.wav
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+Thumbs.db
